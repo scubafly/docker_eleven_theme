@@ -3,7 +3,7 @@ services:
   drupal:
     # Set here the hostname by which you will access the docker container. Use
     # a unique name, ending with `.docker.amazee.io`
-    hostname: &hostname changeme.com.docker.amazee.io
+    hostname: &hostname eleven.theme.docker.amazee.io
 
     environment:
 
